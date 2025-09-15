@@ -1,0 +1,213 @@
+# Privacy Policy - Cardano Online
+
+
+**Last Updated: September 15 2025**
+
+
+Cardano Online ("CO", "we", "our", or "us") respects the privacy of your personal information and is committed to protecting it. This Privacy Policy describes how we collect, use, and protect your information when you use our Cardano Online mobile and web application, including when you connect or create a Cardano wallet.
+
+
+## 1. INFORMATION WE COLLECT
+
+
+### Information you provide to us. Personal information you may provide to us through the platform or otherwise includes:
+
+
+**Account and Profile Data:**
+- Username and Wallet address
+- Profile information and preferences
+- Authentication credentials (managed through AWS Cognito)
+
+
+**Wallet and Transaction Information:**
+- Cardano wallet addresses (public addresses only - we NEVER collect private keys or seed phrases)
+- Transaction history for CO token rewards and claims
+- Mining and reward activity records
+
+
+**Activity and Usage Data:**
+- Daily mining activity (clicking, walking data from mobile devices only)
+- Advertisement viewing verification
+- App interaction data and click tracking
+- Chat messages and group participation
+- Circle of Trust network connections
+
+
+**Device and Technical Data:**
+- Device type, operating system, and version
+- IP address and general location (city/region)
+- App version and platform (iOS, Android, Web)
+- Motion and activity data (for step counting on mobile devices only)
+
+
+### Information Collected Automatically
+
+
+**Usage Analytics:**
+- Pages viewed and time spent in app
+- Feature usage patterns
+- Performance and crash data
+- Session duration and frequency
+
+
+**Cookies and Similar Technologies:**
+We use cookies and similar technologies on our web platform to:
+- Maintain your login session
+- Remember your preferences
+- Analyze app usage patterns
+- Provide personalized content
+
+
+## 2. HOW WE USE YOUR INFORMATION
+
+
+**Core App Functionality:**
+- Provide mining rewards and CO token distribution
+- Process reward claims
+- Enable chat, groups, and social features
+- Track daily activity for reward calculations
+- Verify human users through advertisement viewing
+
+
+**Communication:**
+- Send notifications about rewards, updates, and security alerts
+- Share announcements and app updates
+- Contact cnftharvey@outlook.com 
+
+
+**Improvement and Analytics:**
+- Analyze usage patterns to improve app functionality
+- Develop new features based on user behavior
+- Ensure app security and prevent fraud
+
+
+**Legal and Safety:**
+- Comply with legal obligations
+- Protect against fraud and abuse
+- Enforce our Terms of Service
+- Respond to legal requests
+
+
+## 3. HOW WE SHARE YOUR INFORMATION
+
+
+**Service Providers:**
+We share information with trusted service providers who help us operate our app:
+- **AWS Services:** For authentication, data storage, and app infrastructure
+- **Cardano Blockchain:** For processing CO token rewards and claims
+- **Advertisement Networks:** For verification and reward distribution
+- **Analytics Providers:** For app performance and usage insights
+
+
+**Blockchain Transparency:**
+CO token transactions are recorded on the Cardano blockchain, which is public and immutable. 
+
+
+**Legal Requirements:**
+We may disclose information when required by law, regulation, or legal process, or to protect our rights and the safety of our users.
+
+
+**Aggregated Data:**
+We may share anonymized, aggregated data that cannot identify individual users for research, analytics, or business purposes.
+
+
+## 4. DATA SECURITY
+
+
+We implement industry-standard security measures to protect your information:
+
+
+**Technical Safeguards:**
+- Encryption of data in transit and at rest
+- Secure AWS infrastructure with access controls
+- Regular security audits and monitoring
+- Multi-factor authentication for sensitive operations
+
+
+**Access Controls:**
+- Employee access limited to necessary functions only
+- Regular access reviews and training
+- Segregation of development and production environments
+
+
+**Wallet Security:**
+- We NEVER store private keys or seed phrases
+- All wallet connections use secure, industry-standard protocols
+- Users maintain full control of their Cardano wallets
+
+
+## 5. YOUR PRIVACY RIGHTS
+
+
+**Access and Control:**
+- View and update your profile information
+- Download your personal data
+- Delete your account and associated data
+- Opt out of marketing communications
+
+
+**Data Retention:**
+We retain your data only as long as necessary to provide our services. Specifically:
+- Account data: Until account deletion
+- Transaction records: 7 years for regulatory compliance
+- Usage analytics: 2 years for service improvement
+- Chat messages: 1 year unless deleted earlier
+
+
+## 6. Account Deletion
+
+
+You can delete your account at any time through the app's settings. When you delete your account:
+
+
+- All your personal information will be permanently deleted from our systems
+- Your user profile and preferences will be removed
+
+
+Please note that transactions recorded on the Cardano blockchain cannot be deleted as they are permanent and immutable.
+
+
+To delete your account:
+1. Go to Profile
+2. Select "Delete Account"
+3. Follow the confirmation process
+
+
+## 7. CHILDREN'S PRIVACY
+
+
+Our app is intended for users 18 years and older. We do not knowingly collect personal information from children under 18. If you believe we have collected information from a child under 18, please contact us immediately.
+
+
+## 8. INTERNATIONAL TRANSFERS
+
+
+Your information may be processed and stored in various countries where our service providers operate. We ensure appropriate safeguards are in place to protect your data in accordance with this Privacy Policy and applicable laws.
+
+
+## 9. UPDATES TO THIS POLICY
+
+
+We may update this Privacy Policy periodically. We will notify you of material changes through the app or via email. Your continued use of the app after changes become effective constitutes acceptance of the updated policy.
+
+
+## 10. CONTACT US
+
+
+For questions about this Privacy Policy or to exercise your privacy rights, contact us at:
+
+
+**Email:** cnftharvey@outlook.com
+
+
+For specific data requests or concerns, please include:
+- Your username
+- Email address
+- Detailed description of your request
+- Any relevant details like transaction or activity information.
+
+
+---
+
+
+This Privacy Policy is effective as of September 2025 and governs your use of the Cardano Online application and services
